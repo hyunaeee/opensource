@@ -19,7 +19,7 @@
 * Transformers (Hugging Face)
 * scikit-learn
 * pandas
-* NumPy([GitHub][1])
+* NumPy
 
 ## 🚀 실행 방법
 
